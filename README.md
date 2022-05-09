@@ -17,7 +17,7 @@ Dataset contains landcover and corresponding masks.
  </p>
  
 ### Models
-U-net was used with Resnet, Vgg16, Inceptionv3 backbones. All models was trained for 50 epochs.
+U-net was used with Resnet, Vgg16, Inceptionv3 backbones.
 
 <p align="center">
    <img src="./images/1.png" width="720">
