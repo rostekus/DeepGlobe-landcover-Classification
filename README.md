@@ -18,6 +18,7 @@ Dataset contains landcovers imagaes and corresponding masks.
  
 ### Models
 U-net model was used with Resnet, Vgg16, Inceptionv3 backbones.
+The reason of stripes on the predicted images is that model was trained on 256x256 patches of images.
 
 <p align="center">
    <img src="./images/1.png" width="720">
